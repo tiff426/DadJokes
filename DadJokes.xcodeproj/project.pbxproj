@@ -11,6 +11,9 @@
 		BDB4570C2A93E88C00ECFB08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB4570B2A93E88C00ECFB08 /* ContentView.swift */; };
 		BDB4570E2A93E88D00ECFB08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB4570D2A93E88D00ECFB08 /* Assets.xcassets */; };
 		BDB457112A93E88D00ECFB08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB457102A93E88D00ECFB08 /* Preview Assets.xcassets */; };
+		BDB457182A93E8D500ECFB08 /* SecondJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB457172A93E8D500ECFB08 /* SecondJoke.swift */; };
+		BDB4571A2A93E8F400ECFB08 /* ThirdJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB457192A93E8F400ECFB08 /* ThirdJoke.swift */; };
+		BDB4571C2A93E91500ECFB08 /* FirstJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB4571B2A93E91500ECFB08 /* FirstJoke.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		BDB4570B2A93E88C00ECFB08 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDB4570D2A93E88D00ECFB08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDB457102A93E88D00ECFB08 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDB457172A93E8D500ECFB08 /* SecondJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondJoke.swift; sourceTree = "<group>"; };
+		BDB457192A93E8F400ECFB08 /* ThirdJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdJoke.swift; sourceTree = "<group>"; };
+		BDB4571B2A93E91500ECFB08 /* FirstJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstJoke.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				BDB457092A93E88C00ECFB08 /* DadJokesApp.swift */,
 				BDB4570B2A93E88C00ECFB08 /* ContentView.swift */,
+				BDB457172A93E8D500ECFB08 /* SecondJoke.swift */,
+				BDB457192A93E8F400ECFB08 /* ThirdJoke.swift */,
+				BDB4571B2A93E91500ECFB08 /* FirstJoke.swift */,
 				BDB4570D2A93E88D00ECFB08 /* Assets.xcassets */,
 				BDB4570F2A93E88D00ECFB08 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				BDB4570C2A93E88C00ECFB08 /* ContentView.swift in Sources */,
 				BDB4570A2A93E88C00ECFB08 /* DadJokesApp.swift in Sources */,
+				BDB4571C2A93E91500ECFB08 /* FirstJoke.swift in Sources */,
+				BDB4571A2A93E8F400ECFB08 /* ThirdJoke.swift in Sources */,
+				BDB457182A93E8D500ECFB08 /* SecondJoke.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
